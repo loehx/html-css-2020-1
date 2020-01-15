@@ -22,7 +22,7 @@ Start: 14.01.2020
 * [x] Praxis
   * [x] Grundstruktur
   * [x] inline vs block
-  * [x] *Kontaktformular* (Hausaufgabe)
+  * [x] Aufgabe: *Kontaktformular* (Hausaufgabe)
 * [x] Retro
   * [x] Bitte mäßig Hausaufgaben am Dienstag
   * [x] Einen Ausblick geben, was in der nächsten Session drankommt
@@ -44,12 +44,67 @@ Start: 14.01.2020
   - [ ] Wann sollte ich Code auskommentieren und wann löschen?
   - [ ] Wann benutze ich ein `span` und wann ein `div`?
   - [ ] Für wen oder was programmiere ich, neben dem Kunden?
-
-
+- [ ] Theorie
+  - [ ] CSS Basics
+  - [ ] Bootstrap
+  - [ ] BEM
+- [ ] Praxis
+  - [ ] Bootstrap Grid
+  - [ ] Breakpoints
+  - [ ] CSS Basics
+  - [ ] Aufgabe: *Danke-Seite*
+  - [ ] Aufgabe: *Kontaktformular stylen* (nach eigenem Empfinden)
 
 ## Lesson #3
 
 - [ ] Alternativen Termin für 6.2. finden
+- [ ] Hausaufgabe: *Kontaktformular stylen*
+- [ ] Thorie
+  - [ ] Box Model
+- [ ] Praxis
+  - [ ] Header-Leiste (ähnlich wie auf GitHub) (Hausaufgabe)
+- [ ] Retrospective 
+
+## Lesson #4 (50%)
+
+- [ ] Skill-Matrix aktualisieren
+- [ ] Mid-term Feedback
+- [ ] Theorie
+  - [ ] CSS Wertigkeiten
+  - [ ] Flex
+    - [ ] https://demos.scotch.io/visual-guide-to-css3-flexbox-flexbox-playground/demos/
+- [ ] Hausaufgabe: HTTP Basics
+  * [ ] What is HTTP? https://www.youtube.com/watch?v=wW2A5SZ3GkI&t=50s
+  * [ ] What is an IP Address? https://www.youtube.com/watch?v=0QI6I6APomE
+  * [ ] What are Internet (Website) Cookies & Cache? https://www.youtube.com/watch?v=QYXAxXjaKws&t=22s
+  * [ ] Flex-Box Training: http://flexboxfroggy.com/#de
+
+## Lesson #5
+
+- [ ] Quiz
+  - [ ] FRAGEN ZU HTTP...
+  - [ ] Wie funktionieren Cookies?
+- [ ] Theorie
+  - [ ] position: absolute
+  - [ ] Pseudo-Selektoren :after und :before
+- [ ] Praxis
+  - [ ] *Popup* (über den Seiteninhaltend liegend)
+    - [ ] Schließen bei Klick auf den Hintergrund (Hausaufgabe)
+    - [ ] Inhalt scrollbar machen (Hausaufgabe)
+    - [ ] Animation (extra) (Hausaufgabe)
+
+## Lesson #6
+
+- [ ] Zertifikate
+- [ ] Skill-Matrix aktualisieren
+- [ ] Praxis
+  - [ ] *Mobiles Menü zum ausklappen* (Hausaufgabe)
+
+## Lesson #7 (advanced)
+
+## Lesson #8 (advanced)
+
+## Lesson #9 (advanced)
 
 
 
