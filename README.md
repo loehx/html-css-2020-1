@@ -25,7 +25,9 @@ Start: 14.01.2020
   * [x] *Kontaktformular* (Hausaufgabe)
 * [x] Retro
   * [x] Bitte mäßig Hausaufgaben am Dienstag
+  * [x] Einen Ausblick geben, was in der nächsten Session drankommt
   * [x] Für den nächsten Kurs: Git, Github, Chrome, Atom im Voraus installieren
+  * [x] Für den nächsten Kurs: Showcase für die wichtigsten HTML-Elemente in der Präsentation
 
 ## Lesson #2
 
@@ -47,7 +49,7 @@ Start: 14.01.2020
 
 ## Lesson #3
 
-- [ ] Alternativen Termin für 3.2. finden
+- [ ] Alternativen Termin für 6.2. finden
 
 
 
