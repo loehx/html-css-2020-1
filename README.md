@@ -31,48 +31,78 @@ Start: 14.01.2020
 
 ## Lesson #2
 
-- [ ] Hausaufgabe: *Kontaktformular*
-- [ ] Git Check-In
-- [ ] Quiz
-  - [ ] Welche drei Elemente benötigen wir mindestens für eine **HTML-Grundstruktur**?
-  - [ ] Was enthält der `head` und was enthält der `body`?
-  - [ ] Was ist der unterschied zwischen `inline` und `block`?
-  - [ ] Welche Rolle spielt die **Einrückung** im HTML Code?
-  - [ ] Welche **Inputtypen** kennt ihr?
-  - [ ] Wie werden Formular-Daten an den Server übertragen?
-  - [ ] Welche `button`-Typen gibt es?
-  - [ ] Wann sollte ich Code auskommentieren und wann löschen?
-  - [ ] Wann benutze ich ein `span` und wann ein `div`?
-  - [ ] Für wen oder was programmiere ich, neben dem Kunden?
-- [ ] Theorie
-  - [ ] CSS Basics
-  - [ ] Bootstrap
-  - [ ] BEM
-- [ ] Praxis
-  - [ ] Bootstrap Grid
-  - [ ] Breakpoints
-  - [ ] CSS Basics
-  - [ ] Aufgabe: *Danke-Seite*
-  - [ ] Aufgabe: *Kontaktformular stylen* (nach eigenem Empfinden)
+- [x] Check-in - Wie geht's wie steht's?
+- [x] Hausaufgabe: *Kontaktformular*
+- [x] Quiz
+  - [x] Welche drei Elemente benötigen wir mindestens für eine **HTML-Grundstruktur**?
+  - [x] Was enthält der `head` und was enthält der `body`?
+  - [x] Was ist der unterschied zwischen `inline` und `block`?
+  - [x] Welche Rolle spielt die **Einrückung** im HTML Code?
+  - [x] Welche **Inputtypen** kennt ihr?
+  - [x] Wie werden Formular-Daten an den Server übertragen?
+  - [x] Welche `button`-Typen gibt es?
+  - [x] Wann sollte ich Code auskommentieren und wann löschen?
+  - [x] Wann benutze ich ein `span` und wann ein `div`?
+  - [x] Für wen oder was programmiere ich, neben dem Kunden?
+- [x] Theorie
+  - [x] Bootstrap
+- [x] Praxis
+  - [x] Bootstrap Grid
+  - [x] Bootstrap Components
+  - [x] Breakpoints
+  - [x] Aufgabe: *Danke-Seite*
+    - [x] ... mit "Zurück"-Button (Element: `<a href="...">...</a>`)
+  - [x] Aufgabe: *Kontaktformular* 
+    - [x] ... nach eigenem empfinden stylen
+    - [x] ... mit allen bekannten Input-Typen
+- [x] Retro
+  - [x] Zu schnell zu tief eingetaucht - langsamer Vorgehen
+  - [x] Schwere Kost lieber am Anfang der Stunde
 
 ## Lesson #3
 
-- [ ] Alternativen Termin für 6.2. finden
-- [ ] Hausaufgabe: *Kontaktformular stylen*
-- [ ] Thorie
-  - [ ] Box Model
-- [ ] Praxis
-  - [ ] Header-Leiste (ähnlich wie auf GitHub) (Hausaufgabe)
-- [ ] Retrospective 
+- [x] Check-in - Wie geht's wie steht's?
+- [x] Git-Schulung am Samstag 240€ (Eva bescheid geben)
+- [x] Wiederholung
+  - [x] Welche Inline-Elemente kennt ihr?
+  - [x] Welche 2 Elemente benötige ich um eine Dropdown zu erzeugen?
+  - [x] Wie definiere ich eine Zieldatei, an die ein Formular gesendet werden soll?
+  - [x] Was ist der Unterschied zwischen `get` und `post`? 
+  - [x] Was beschreibt das *Box-Model*?
+  - [x] Wie finde ich heraus warum ein Element einen Rahmen hat?
+  - [x] Warum benutzen wir ein *Grid*-System?
+  - [x] Wie viel Columns hat das Bootstrap-Grid von Natur aus und warum?
+- [x] Hausaufgabe: *Kontaktformular stylen*
+- [x] Thorie
+  - [x] Box Model
+  - [x] CSS Syntax
+  - [x] CSS Selektoren
+- [x] Retrospective 
+  - [x] Gutes Tempo
+  - [x] Chaos im Kopf
 
 ## Lesson #4 (50%)
 
-- [ ] Skill-Matrix aktualisieren
-- [ ] Mid-term Feedback
+- [ ] Check-in - Wie geht's wie steht's?
+- [ ] Skill-Matrix aktualisieren [hier](https://docs.google.com/document/d/16027rEVtmKVeCrEM1Tqj8yCgyemYH_IThxxjwsdLxOo/edit?usp=sharing)
+- [ ] Mid-term Feedback [hier](https://forms.gle/VwmTKNGCfnhXpWip8)
+- [ ] Wiederholung
+  - [ ] Welche CSS-Selektoren kennt ihr?
+  - [ ] Welchen davon sollte ich stets vorziehen?
+  - [ ] Was beschreibt das *Box-Model*?
+  - [ ] Wie berechnet sich die Höhe und Breite eines Elements in Bezug auf das Box-Model?
+  - [ ] Was passiert wenn der Inhalt größer ist als das Element?
+  - [ ] Wie stelle ich ein, dass ein Element über die gesamte Browserhöhe geht?
+  - [ ] Mit welcher CSS-Einstellung spiele ich, wenn mein Box-Model sich merkwürdig verhält?
+  - [ ] Wie merke ich, ob ich ein Semikolon im CSS vergessen habe?
+  - [ ] Wie erkenne ich ob ich einen Syntaxfehler im HTML habe?
 - [ ] Theorie
-  - [ ] CSS Wertigkeiten
-  - [ ] Flex
-    - [ ] https://demos.scotch.io/visual-guide-to-css3-flexbox-flexbox-playground/demos/
+  - [ ] Hierarchie
+  - [ ] Combining
+  - [ ] Pseudo Elements
+  - [ ] Wertigkeiten
+  - [ ] BEM
+- [ ] Praxis: *Stage* wie im Design bauen (Hausaufgabe)
 - [ ] Hausaufgabe: HTTP Basics
   * [ ] What is HTTP? https://www.youtube.com/watch?v=wW2A5SZ3GkI&t=50s
   * [ ] What is an IP Address? https://www.youtube.com/watch?v=0QI6I6APomE
@@ -81,12 +111,13 @@ Start: 14.01.2020
 
 ## Lesson #5
 
+- [ ] Arbeitsverzeichnis in Git hochladen
 - [ ] Quiz
   - [ ] FRAGEN ZU HTTP...
   - [ ] Wie funktionieren Cookies?
 - [ ] Theorie
-  - [ ] position: absolute
-  - [ ] Pseudo-Selektoren :after und :before
+  - [ ] Vertikale und Horizontale Zentrierung
+  - [ ] CSS Flexbox
 - [ ] Praxis
   - [ ] *Popup* (über den Seiteninhaltend liegend)
     - [ ] Schließen bei Klick auf den Hintergrund (Hausaufgabe)
