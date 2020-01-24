@@ -83,46 +83,39 @@ Start: 14.01.2020
 
 ## Lesson #4 (50%)
 
-- [ ] Check-in - Wie geht's wie steht's?
-- [ ] Skill-Matrix aktualisieren [hier](https://docs.google.com/document/d/16027rEVtmKVeCrEM1Tqj8yCgyemYH_IThxxjwsdLxOo/edit?usp=sharing)
-- [ ] Mid-term Feedback [hier](https://forms.gle/VwmTKNGCfnhXpWip8)
-- [ ] Wiederholung
-  - [ ] Welche CSS-Selektoren kennt ihr?
-  - [ ] Welchen davon sollte ich stets vorziehen?
-  - [ ] Was beschreibt das *Box-Model*?
-  - [ ] Wie berechnet sich die Höhe und Breite eines Elements in Bezug auf das Box-Model?
-  - [ ] Was passiert wenn der Inhalt größer ist als das Element?
-  - [ ] Wie stelle ich ein, dass ein Element über die gesamte Browserhöhe geht?
-  - [ ] Mit welcher CSS-Einstellung spiele ich, wenn mein Box-Model sich merkwürdig verhält?
-  - [ ] Wie merke ich, ob ich ein Semikolon im CSS vergessen habe?
-  - [ ] Wie erkenne ich ob ich einen Syntaxfehler im HTML habe?
-- [ ] Theorie
-  - [ ] Hierarchie
-  - [ ] Combining
-  - [ ] Pseudo Elements
-  - [ ] Wertigkeiten
-  - [ ] BEM
-- [ ] Praxis: *Stage* wie im Design bauen (Hausaufgabe)
-- [ ] Hausaufgabe: HTTP Basics
-  * [ ] What is HTTP? https://www.youtube.com/watch?v=wW2A5SZ3GkI&t=50s
-  * [ ] What is an IP Address? https://www.youtube.com/watch?v=0QI6I6APomE
-  * [ ] What are Internet (Website) Cookies & Cache? https://www.youtube.com/watch?v=QYXAxXjaKws&t=22s
-  * [ ] Flex-Box Training: http://flexboxfroggy.com/#de
+- [x] Check-in - Wie geht's wie steht's?
+- [x] Skill-Matrix aktualisieren [hier](https://docs.google.com/document/d/16027rEVtmKVeCrEM1Tqj8yCgyemYH_IThxxjwsdLxOo/edit?usp=sharing)
+- [x] Wiederholung
+  - [x] Was beschreibt das *Box-Model*?
+  - [x] Wie berechnet sich die Höhe und Breite eines Elements in Bezug auf das Box-Model?
+  - [x] Was passiert wenn der Inhalt größer ist als das Element?
+  - [x] Wie stelle ich ein, dass ein Element über die gesamte Browserhöhe geht?
+- [x] Theorie
+  - [x] Hierarchie
+  - [x] Combining
+  - [x] Pseudo Elements
+  - [x] BEM
+- [x] Praxis: *Stage* wie im Design bauen (Hausaufgabe)
+- [x] Hausaufgabe: HTTP Basics (optional)
+  * [x] What is HTTP? https://www.youtube.com/watch?v=wW2A5SZ3GkI&t=50s
+  * [x] What is an IP Address? https://www.youtube.com/watch?v=0QI6I6APomE
+  * [x] What are Internet (Website) Cookies & Cache? https://www.youtube.com/watch?v=QYXAxXjaKws&t=22s
+  * [x] Flex-Box Training: http://flexboxfroggy.com/#de
 
 ## Lesson #5
 
 - [ ] Arbeitsverzeichnis in Git hochladen
+- [ ] Mid-term Feedback [hier](https://forms.gle/VwmTKNGCfnhXpWip8)
 - [ ] Quiz
-  - [ ] FRAGEN ZU HTTP...
-  - [ ] Wie funktionieren Cookies?
+  - [ ] HTTP: Wie funktionieren Cookies?
+  - [ ] Mit welcher CSS-Einstellung spiele ich, wenn mein Box-Model sich merkwürdig verhält?
+  - [ ] Wie merke ich, ob ich ein Semikolon im CSS vergessen habe?
+  - [ ] Wie erkenne ich ob ich einen Syntaxfehler im HTML habe?
 - [ ] Theorie
   - [ ] Vertikale und Horizontale Zentrierung
   - [ ] CSS Flexbox
-- [ ] Praxis
-  - [ ] *Popup* (über den Seiteninhaltend liegend)
-    - [ ] Schließen bei Klick auf den Hintergrund (Hausaufgabe)
-    - [ ] Inhalt scrollbar machen (Hausaufgabe)
-    - [ ] Animation (extra) (Hausaufgabe)
+  - [ ] Wertigkeiten
+- [ ] Praxis: *Stage* wie im Design bauen (Hausaufgabe)
 
 ## Lesson #6
 

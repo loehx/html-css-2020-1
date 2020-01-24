@@ -1,0 +1,22 @@
+
+.stage {
+    background-image: url('images/background.jpg');
+    background-size: cover;
+    height: 100vh;
+}
+
+.stage__inner {
+
+}
+
+.stage__form {
+    margin-right: 100px;
+}
+
+input, select {
+    width: 100%;
+}
+
+.stage__form input::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+  color: red;
+}
