@@ -17,6 +17,6 @@ input, select {
     width: 100%;
 }
 
-.stage__form input::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+.stage__form input::placeholder {
   color: red;
 }

@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>bootstrap</title>
+
+        <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" rel="stylesheet" crossorigin="anonymous">
+
+    </head>
+    <body>
+        <style>
+
+            .frame {
+                border: 5px solid #8bc34a;
+                height: 100px;
+                margin-top: 15px;
+            }
+
+            .box {
+                background-color: #8bc34a;
+                width: 100px;
+                text-align: center;
+                padding: 10px;
+                transition: all .3s ease;
+            }
+
+            .box:hover {
+                transform: scale(1.05);
+                box-shadow: 0 5px 5px rgba(0,0,0,.5);
+            }
+
+            .box--margin {
+                margin: 0 auto;
+            }
+
+            .frame--text-align {
+                text-align: center;
+            }
+
+            .box--text-align {
+                display: inline-block;
+            }
+
+            .frame--flexbox {
+                display: flex;
+                justify-content: center;
+                align-items: center;
+            }
+
+            .frame--absolute {
+                position: relative;
+            }
+
+            .box--absolute {
+                position: absolute;
+                left: 50%;
+                top: 50%;
+                transform: translate(-50%, -50%);
+            }
+
+            .frame--16by9 {
+                padding-top: calc(9/16*100%);
+                position: relative;
+                overflow: hidden;
+                background-size: cover;
+                background-position: top center;
+            }
+
+            .frame img {
+                position: absolute;
+                top: 0%;
+                left: 50%;
+                transform: translate(-50%, 0%);
+                width: 100%;
+            }
+
+            .frame--with-kitty {
+                background-image: url(https://placekitten.com/1000);
+            }
+
+            @media (max-width: 600px) {
+                .frame--with-kitty {
+                    background-image: url(https://placekitten.com/600);
+                }
+            }
+
+        </style>
+        <div class="container">
+
+            <div class="frame frame--margin">
+                <div class="box box--margin">margin</div>
+            </div>
+
+            <div class="frame frame--text-align">
+                <div class="box box--text-align">text-align</div>
+            </div>
+
+            <div class="frame frame--flexbox">
+                <div class="box box--flexbox">flexbox</div>
+            </div>
+
+            <div class="frame frame--absolute">
+                <div class="box box--absolute">absolute</div>
+            </div>
+
+            <div class="frame frame--16by9">
+                <img srcset="https://placekitten.com/400 400w, https://placekitten.com/2000 2000w" />
+            </div>
+
+            <div class="frame frame--16by9 frame--with-kitty d-md-none">
+            </div>
+
+        </div>
+    </body>
+</html>

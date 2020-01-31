@@ -33,7 +33,7 @@ Start: 14.01.2020
 
 - [x] Check-in - Wie geht's wie steht's?
 - [x] Hausaufgabe: *Kontaktformular*
-- [x] Quiz
+- [x] Wiederholung
   - [x] Welche drei Elemente benötigen wir mindestens für eine **HTML-Grundstruktur**?
   - [x] Was enthält der `head` und was enthält der `body`?
   - [x] Was ist der unterschied zwischen `inline` und `block`?
@@ -95,40 +95,86 @@ Start: 14.01.2020
   - [x] Combining
   - [x] Pseudo Elements
   - [x] BEM
-- [x] Praxis: *Stage* wie im Design bauen (Hausaufgabe)
+- [x] Praxis: *Stage* wie im Design nachbauen (Hausaufgabe)
 - [x] Hausaufgabe: HTTP Basics (optional)
   * [x] What is HTTP? https://www.youtube.com/watch?v=wW2A5SZ3GkI&t=50s
   * [x] What is an IP Address? https://www.youtube.com/watch?v=0QI6I6APomE
   * [x] What are Internet (Website) Cookies & Cache? https://www.youtube.com/watch?v=QYXAxXjaKws&t=22s
   * [x] Flex-Box Training: http://flexboxfroggy.com/#de
+- [x] Keine Zeit für Retro
 
 ## Lesson #5
 
-- [ ] Arbeitsverzeichnis in Git hochladen
-- [ ] Mid-term Feedback [hier](https://forms.gle/VwmTKNGCfnhXpWip8)
-- [ ] Quiz
-  - [ ] HTTP: Wie funktionieren Cookies?
-  - [ ] Mit welcher CSS-Einstellung spiele ich, wenn mein Box-Model sich merkwürdig verhält?
-  - [ ] Wie merke ich, ob ich ein Semikolon im CSS vergessen habe?
-  - [ ] Wie erkenne ich ob ich einen Syntaxfehler im HTML habe?
-- [ ] Theorie
-  - [ ] Vertikale und Horizontale Zentrierung
-  - [ ] CSS Flexbox
-  - [ ] Wertigkeiten
-- [ ] Praxis: *Stage* wie im Design bauen (Hausaufgabe)
+- [x] **Wichtig für Advanced**: Wir schieben die Schulung am 6.2. (Do) auf den 10.02. (Mo)
+- [x] Check-in - Wie geht's wie steht's?
+- [x] Wer macht den Advanced Course? (Unten bei "Teilnehmer" vermerken)
+- [x] Wer hat sich mit HTTP beschäftigt?
+- [x] Wer hat sich mit Flexbox beschäftigt?
+- [x] Allgemeine Fragen
+- [x] Wiederholung
+  - [x] Warum benutzen wir BEM?
+  - [x] Mit welcher CSS-Einstellung spiele ich, wenn mein Box-Model sich merkwürdig verhält?
+  - [x] Wie merke ich, ob ich ein Semikolon im CSS vergessen habe?
+  - [x] Wie erkenne ich ob ich einen Syntaxfehler im HTML habe?
+- [x] Theorie
+  - [x] CSS Flexbox
+  - [x] Wertigkeiten (Specificity)
+- [x] Hausaufgabe: *Stage* wie im Design nachbauen
 
 ## Lesson #6
 
-- [ ] Zertifikate
-- [ ] Skill-Matrix aktualisieren
-- [ ] Praxis
-  - [ ] *Mobiles Menü zum ausklappen* (Hausaufgabe)
+- [x] Skill-Matrix aktualisieren
+- [x] Zertifikate
+- [x] Allgemeine Fragen
+- [x] Wiederholung
+  - [x] Was beschreibt ein Tag-Name in HTML?
+  - [x] Wie definiert man ein Attribut?
+  - [x] Was ist das Closing-Tag?
+  - [x] Was enthält der `head` und was enthält der `body`?
+  - [x] Was ist der unterschied zwischen `inline` und `block`?
+  - [x] Wann benutze ich ein `span` und wann ein `div`?
+  - [x] Für wen oder was programmiere ich, neben dem Kunden?
+  - [x] Wie berechnet sich die Höhe und Breite eines Elements in Bezug auf das Box-Model?
+  - [x] Wie stelle ich ein, dass ein Element über die gesamte Browserbreite geht?
+  - [x] Wo benutzen wir ein *Grid*-System und wo *Flex*?
+  - [x] Wie viel Columns hat das Bootstrap-Grid von Natur aus und warum?
+- [x] Theorie
+  - [x] Vertikale und Horizontale Zentrierung (text-align vs margin vs absolute vs flex)
+- [x] Praxis
+  - [x] Zweites Modul (*4 Column Module*) wie im Design nachbauen
+- [x] Abschluss
+  - [x] Wurden meine Erwartungen erfüllt?
+  - [x] Was hat mir am Kurs am meisten gefallen? 1 oder 2 Punkte max.
+    - [x] Allgemeine Fragen
+    - [x] Stück für Stück: Theorie und Praxis
+    - [x] Hausaufgaben
+    - [x] Probleme als Gruppe lösen
+  - [x] Was will ich unbedingt im Advanced Kurs lernen?
+    - [x] Positioning
+    - [x] Eigenständiges Programmieren
+    - [x] CSS Grid
+    - [x] Projektstruktur für Webseiten
 
 ## Lesson #7 (advanced)
+
+- [ ] Check-in - Wie geht's wie steht's?
+- [ ] Was habt ihr mit Teresa gemacht bisher?
+- [ ] Wiederholung
+  - [ ] ...
+- [ ] Theorie
+  - [ ] SCSS
+  - [ ] CSS Grid
+  - [ ] Projektstruktur für Webseiten
+- [ ] Praxis
+  - [ ] Das Design weiter nachbauen
 
 ## Lesson #8 (advanced)
 
 ## Lesson #9 (advanced)
+
+- [ ] Zertifikate
+- [ ] Skill-Matrix aktualisieren
+- [ ] Praxis
 
 
 
@@ -136,12 +182,12 @@ Start: 14.01.2020
 
 - Alex (Dozent)
 - Paul (Dozent)
-- Clemens
+- Clemens (Advanced)
 - Thomas
-- Jakob
-- Klara
-- Christoph
+- Jakob (Advanced)
+- Klara (Advanced)
+- Christoph (Advanced)
 - Münni
 - Sara
-- Carlotta
-- Sabrina
+- Carlotta (Advanced)
+- Sabrina (Advanced)
