@@ -1,0 +1,10 @@
+
+$distance-md: 20px;
+
+.stage {
+
+    &__inner {
+        display: block;
+        padding: $distance-md;
+    }
+}

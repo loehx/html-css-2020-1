@@ -157,18 +157,41 @@ Start: 14.01.2020
 
 ## Lesson #7 (advanced)
 
-- [ ] Check-in - Wie geht's wie steht's?
-- [ ] Was habt ihr mit Teresa gemacht bisher?
-- [ ] Wiederholung
-  - [ ] ...
-- [ ] Theorie
-  - [ ] SCSS
-  - [ ] CSS Grid
+- [x] **Wichtig**: Das Treffen am **Do** verschiebt sich wie geplant auf **Mo**!
+- [x] Wer ist alles bei der SEO-Schulung dabei?
+- [x] Check-in - Wie geht's wie steht's?
+- [x] Was habt ihr mit Teresa gemacht bisher?
+- [x] Allgemeine Fragen aus der Hausaufgabe?
+- [x] Wiederholung
+  - [x] Woraus besteht ein HTML-Element?
+  - [x] Welche Möglichkeiten habe ich ein Element horizontal und vertikal zu zentrieren?
+  - [x] Wann benutzen wir ein *Grid*-System und wann *Flex*?
+  - [x] Wann benutze ich ein `span` und wann ein `div`?
+  - [x] Wann benötige ich `position: relative`?
+  - [x] Was ist das Box-Model?
+  - [x] Mit welcher Einstellung spiele ich wenn sich ein `padding` oder `margin` merkwürdig verhält?
+  - [x] Mein Element hat `height: 100%`, ist jedoch nicht so groß wie erwartet. Was könnte das Problem sein?
+- [x] Theorie
+  - [x] SCSS
+    - [x] Mac Workaround
+      - [x] https://sass-lang.com/install
+      - [x] `sass --watch style.scss:style.css`
+  - [x] CSS Grid - Machen wir nicht: https://medium.com/wdstack/bootstrap-is-still-better-than-css-grid-for-creating-layouts-522b7baf0411
   - [ ] Projektstruktur für Webseiten
 - [ ] Praxis
-  - [ ] Das Design weiter nachbauen
+  - [ ] Das Design weiterbauen
 
 ## Lesson #8 (advanced)
+
+- [ ] Check-in - Wie geht's wie steht's?
+- [ ] Allgemeine Fragen aus der Hausaufgabe?
+- [ ] Wiederholung
+  - [ ] Woraus besteht ein HTML-Element?
+  - [ ] Welche Möglichkeiten habe ich ein Element horizontal und vertikal zu zentrieren?
+  - [ ] Mein z-index scheint nicht zu funktionieren... was könnte das Problem sein?
+  - [ ] Warum benutzen wir BEM?
+  - [ ] Warum benutzt man ein Grid?
+  - [ ] 
 
 ## Lesson #9 (advanced)
 
