@@ -177,9 +177,9 @@ Start: 14.01.2020
       - [x] https://sass-lang.com/install
       - [x] `sass --watch style.scss:style.css`
   - [x] CSS Grid - Machen wir nicht: https://medium.com/wdstack/bootstrap-is-still-better-than-css-grid-for-creating-layouts-522b7baf0411
-  - [ ] Projektstruktur für Webseiten
-- [ ] Praxis
-  - [ ] Das Design weiterbauen
+  - [x] Projektstruktur für Webseiten
+- [x] Praxis
+  - [x] Das Design weiterbauen
 
 ## Lesson #8 (advanced)
 
@@ -188,10 +188,8 @@ Start: 14.01.2020
 - [ ] Wiederholung
   - [ ] Woraus besteht ein HTML-Element?
   - [ ] Welche Möglichkeiten habe ich ein Element horizontal und vertikal zu zentrieren?
+  - [ ] Was gibt einem Element mit `position: absolute` ein Zuhause?
   - [ ] Mein z-index scheint nicht zu funktionieren... was könnte das Problem sein?
-  - [ ] Warum benutzen wir BEM?
-  - [ ] Warum benutzt man ein Grid?
-  - [ ] 
 
 ## Lesson #9 (advanced)
 
