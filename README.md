@@ -183,26 +183,39 @@ Start: 14.01.2020
 
 ## Lesson #8 (advanced)
 
-- [ ] Check-in - Wie geht's wie steht's?
-- [ ] Allgemeine Fragen aus der Hausaufgabe?
-- [ ] Wiederholung
-  - [ ] Woraus besteht ein HTML-Element?
-  - [ ] Welche Möglichkeiten habe ich ein Element horizontal und vertikal zu zentrieren?
-  - [ ] Was gibt einem Element mit `position: absolute` ein Zuhause?
-  - [ ] Mein z-index scheint nicht zu funktionieren... was könnte das Problem sein?
+- [x] Check-in - Wie geht's wie steht's?
+- [x] Allgemeine Fragen aus der Hausaufgabe?
+- [x] Wiederholung
+  - [x] Woraus besteht ein HTML-Element?
+  - [x] Welche Möglichkeiten habe ich ein Element horizontal und vertikal zu zentrieren?
+  - [x] Was gibt einem Element mit `position: absolute` ein Zuhause?
+  - [x] Mein z-index scheint nicht zu funktionieren... was könnte das Problem sein?
+- [x] Praxisübung: [Hugo-Theme](https://themes.gohugo.io/theme/Influencer-hugo/#!/)
 
 ## Lesson #9 (advanced)
 
-- [ ] Zertifikate
+- [x] Zertifikate erhalten? #slack
 - [ ] Skill-Matrix aktualisieren
-- [ ] Praxis
+- [x] **Check-in** - Wie geht's wie steht's?
+- [x] **Widerholung**
+  - [x] Wann benutze ich ein `span` und wann ein `div`?
+  - [x] Welche 2 Elemente benötige ich um eine Dropdown zu erzeugen?
+  - [x] Was ist der Unterschied zwischen `get` und `post`? 
+  - [x] Wie berechnet sich die Höhe und Breite eines Elements in Bezug auf das Box-Model?
+  - [x] Mit welcher Einstellung spiele ich wenn sich ein `padding` oder `margin` merkwürdig verhält?
+  - [x] Mein Element hat `height: 100%`, ist jedoch nicht so groß wie erwartet. Was könnte das Problem sein?
+  - [x] Wie lasse ich meine Header-Leiste immer am Kopf der Seite? Auch beim Herunterscrollen.
+- [x] **Allgemeine Fragen** ...die zuhause aufgekommen sind?
+- [x] Zusammen: **Mobile Navigation**
+- [x] **Praxisübung**: [Hugo-Theme](https://themes.gohugo.io/theme/Influencer-hugo/#!/)
+- [x] **Abschluss** - wie war's?
 
 
 
 ## Teilnehmer
 
-- Alex (Dozent)
-- Paul (Dozent)
+- Alex (**Dozent**)
+- Paul (**Assistance**)
 - Clemens (Advanced)
 - Thomas
 - Jakob (Advanced)
