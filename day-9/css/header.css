@@ -1,0 +1,21 @@
+.header {
+    position: fixed;
+    left: 0;
+    top: 0;
+    right: 0;
+    background-color: white;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    z-index: 1;
+}
+
+.header__inner {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header__logo {
+    padding-left: 20px;
+}
